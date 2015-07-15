@@ -2,7 +2,7 @@
 
 弹窗插件
 
-效果详见 [Demo](http://travisup.com/demo/plugins/dialog/demo.html)
+效果详见 [Demo](http://travisup.com/demo/plugins/dialog/demo)
 
 ### Usage
 
